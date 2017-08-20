@@ -53,7 +53,7 @@ Github Fivored Markdown, GFM
 
 emoji 表情符号
 
-    :snake:
+   :snake
 
 
 
