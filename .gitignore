@@ -1,0 +1,5 @@
+# ignore .project creation by Hbuilder
+.project
+
+*.md.html
+
